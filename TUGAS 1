@@ -1,3 +1,1 @@
-Sebelumnya saya sudah melakukan instalasi Instalasi vm https://ciperx.com/install-ubuntu-server/ storage 35GB
-Dan juga telah melakukan Persiapan Server host
-  sudo apt install -y build-essential linux-headers-$(uname -r)
+
