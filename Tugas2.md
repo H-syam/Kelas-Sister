@@ -22,9 +22,10 @@ lxc-start -n microservice5
 ![2](https://github.com/H-syam/Kelas-Sister/assets/148841928/438c39c1-5ede-4810-b843-c761e888b7c6)
 
 Setelah berhasil dijalankan, sekarang pindah ke nano /etc/nginx/sites-enabled  untuk menambahkan ip baru yang bernama microservice3.dev
+
 ![3](https://github.com/H-syam/Kelas-Sister/assets/148841928/c53f6bfe-35ee-4b76-bf97-b678014eb6d6)
 
-Lakukan ke semua microservice yang baru 
+Lakukan hal yang sama  ke semua microservice yang baru 
 
 ![9](https://github.com/H-syam/Kelas-Sister/assets/148841928/1a9c9ebc-7579-475c-8c1e-e74cafd7cdbd)
 ![10](https://github.com/H-syam/Kelas-Sister/assets/148841928/8cb779c8-6a97-404f-896e-39bd4e79cacb)
