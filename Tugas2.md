@@ -2,8 +2,11 @@ melakukan instalasi microservice 3 debian 10 , microservice 4 debian 10 , micros
 
 
 sudo lxc-create -n microservice3 -t download -- --dist "debian" --release "buster" –arch amd64
+
 sudo lxc-create -n microservice4 -t download -- --dist "debian" --release "buster" –arch amd64
+
 sudo lxc-create -n microservice5 -t download -- --dist "debian" --release "buster" –arch amd64
+
 dengan mengisi Architecture : amd64
 
 ![1](https://github.com/H-syam/Kelas-Sister/assets/148841928/dfbb4aab-27c1-4377-a1dc-9aaebc1af3ab)
